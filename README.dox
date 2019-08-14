@@ -1,0 +1,49 @@
+/**
+@mainpage  (wavengine)
+
+ This program is about manipulating soundtracks of type WAVE files
+ Copyright (C) 2018  Marios Pafitis & Valentinos Pariza 
+
+
+ This program is free software: you can redistribute it and/or modify it under 
+ the terms of the GNU General Public License as published by the Free Software
+ Foundation, either version 3 of the License, or at your option) any later version. 
+
+
+ This program is distributed in the hope that it will be useful, but WITHOUT 
+ ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+ FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details. 
+
+ Υou should have received a copy of the GNU General Public License along with 
+ this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+ This program as usual is a great example of implementation of some great ,but
+ important techniques in programming language C. As requested by the assignment
+ 4, from the department of computer science of university of cyprus , and more
+ specific from course CS232 ,we have implemented a library with many modules
+ which each module represent a functionable module-function-method that can be
+ used to manipulate soundtracks of type WAVE (.wav files). All these modules
+ are stored inside a compressed file from where we use its methods in a method
+ client giving some functionality for processing soundtracks of type WAVE.
+ That library contains methods like (mixing two sound tracks ,encoding a message
+ in a soundtrack and decoding a message from a soundtrack,printing information
+ about the header of a soundtrack (WAVE -> .wav file), converting a sound track
+ from steeo to mono and many more. For more information about the methods of
+ the library see header file @see wavelib.h .
+
+ As a coclusion we would like to thank all of our tutors and professors for 
+ their excellent contribution of knowledge and help to this assignment.
+
+ We are glad that we have tried and dealt with such great assignments because
+ ,assignments like these are problems that can be seen today. It was a great
+ experience!
+
+ By Valentinos Pariza & Marios Pafitis 
+
+ Original Authors of this program!
+
+ For more information about the exercise and its applications ,please don't
+ hesitate to contact to mpafit02@cs.ucy.ac.cy or to vpariz01@cs.ucy.ac.cy
+
+*/
