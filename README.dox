@@ -29,7 +29,7 @@
  That library contains methods like (mixing two sound tracks ,encoding a message
  in a soundtrack and decoding a message from a soundtrack,printing information
  about the header of a soundtrack (WAVE -> .wav file), converting a sound track
- from steeo to mono and many more. For more information about the methods of
+ from stereo to mono and many more. For more information about the methods of
  the library see header file @see wavelib.h .
 
  As a coclusion we would like to thank all of our tutors and professors for 
